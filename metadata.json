@@ -1,0 +1,6 @@
+{
+  "name": "ONHWA Flower Studio",
+  "description": "온화(ONHWA) 프리미엄 플라워 스튜디오 - 시그니처 컬렉션 큐레이션, 마스터클래스 예약 및 메시지 아틀리에",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
